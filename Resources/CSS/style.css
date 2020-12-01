@@ -1,0 +1,44 @@
+/* Global Styles */
+a{
+	color: aquamarine;
+}
+
+body{
+	background-color: #000;
+	color: #fff;
+	font-family: Verdana;
+	text-align: center;
+}
+
+/* Header */
+
+header h1{
+	font-weight: normal;
+	font-size: 50px;
+}
+
+header a{
+	font-size: 16px;
+}
+
+/* Phone section */
+
+/* Info section */
+#info h2{
+	font-weight: 300;
+	font-size: 42px;
+}
+
+#info h3{
+	font-size: 21px;
+	color: gray;
+}
+
+/* Coming Soon section */
+
+/* Footer */
+
+footer p{
+	color: gray;
+	text-align: right;
+}
