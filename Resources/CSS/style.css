@@ -21,20 +21,29 @@ header a{
 	font-size: 16px;
 }
 
-/* Phone section */
-
 /* Info section */
 #info h2{
 	font-weight: 300;
 	font-size: 42px;
 }
 
-#info h3{
+#info h4{
 	font-size: 21px;
 	color: gray;
+	font-weight: 200;
+}
+
+#info img{
+	height: auto;
+	width: 70%;
+	margin: 20px 0;
 }
 
 /* Coming Soon section */
+#coming-soon h2{
+	font-weight: 300;
+	font-size: 42px;
+}
 
 /* Footer */
 
